@@ -3,10 +3,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-    overflow: hidden;
+    
 }
 body{
-    overflow: hidden;
     height: 100vh;
     background-image: url(./images/banner-bg.jpg);
     background-size: cover;  
@@ -48,9 +47,8 @@ h4{
     display: flex;
 }
 .logo{
-   margin-bottom: 1rem;
+    margin-bottom: 1rem;
 }
-
 li{
     width: 100%;
     text-align: center;
