@@ -104,18 +104,18 @@ h2{
 @media(min-width:800px){
     .navbar{
         display: flex;
-        justify-content: space-between;
+      justify-content: space-between;
         align-items: center;
           
     }
     .navigation{
     display: flex;
     flex-direction: row;
+    
       
     }
     li{
-        margin: 0;
-        
+       margin: 0; 
     }
     .logo{
         margin-bottom: 0;
